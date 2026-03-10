@@ -1,6 +1,5 @@
 # Holographic Geometric Vacuum Scaling (GVS)
 Research repository for the paper: "Holographic Geometric Vacuum Scaling (GVS): An Empirical and Kinematic Model for Galactic Rotation Curves."
-DOI: 10.5281/zenodo.18928146
 [![DOI](https://zenodo.org/badge/1177144457.svg)](https://doi.org/10.5281/zenodo.18928146)
 
 ## Contents
